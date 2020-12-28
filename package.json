@@ -1,0 +1,19 @@
+{
+  "name": "311_checkpoint2_gardenapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nblack0917/311_checkpoint2_gardenApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nblack0917/311_checkpoint2_gardenApp/issues"
+  },
+  "homepage": "https://github.com/nblack0917/311_checkpoint2_gardenApp#readme"
+}
